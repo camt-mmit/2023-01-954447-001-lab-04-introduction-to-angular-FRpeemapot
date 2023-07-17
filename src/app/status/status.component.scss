@@ -1,0 +1,14 @@
+h2,
+p,
+h1 {
+  margin-left: 30px;
+}
+
+table,
+th,
+td {
+  margin: auto;
+}
+td :nth-child(3) {
+  padding-left: 15px;
+}
